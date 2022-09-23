@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DMMutua
+- 👋 Hi, I’m David Mutua
 - 🌱 A Finance Major, and Sofware Engineering Student.
 
 <!---
