@@ -1,4 +1,4 @@
-Agentic AI Developer & Python Programmer</br>
+LLM-Powered Agentic AI Developer & Python Programmer</br>
 
 ```“The best way to predict the Future is to build it.” – Peter Drucker```
 - Links:
