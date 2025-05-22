@@ -1,6 +1,5 @@
-LLM-Powered Agentic AI Developer & Python Programmer</br>
+CUDA C & Python | AI/ML/DL | LLM-Powered Agentic AI Development</br>
 
-```“The best way to predict the Future is to build it.” – Peter Drucker```
 - Links:
   - [Email](davymtuerr@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/david-mutua-441377159)
